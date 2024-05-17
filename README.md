@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nopathee Chan-in (Earth)</h1>
 <h3 align="center">I'm Interested in DevOps, BackEnd Developer and FrontEnd Developer 💻</h3>
 
+<p align="center">As an Information Technology student at School of Information Technology, King Mongkut's University of Technology Thonburi, captivated by coding, web development.I'm eager to seeking for new experences and knowledges.I'm passionate about collaborating with teams, sharing my perspectives, and managing detailed issues.</p>
+
 - 🌱 I’m currently learning **Go, Kubernetes, Flutter, aws**
 
 - 📫 How to reach me **nnopaa.official@gmail.com**
